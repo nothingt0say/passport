@@ -1,6 +1,6 @@
 const config = {};
 
-config.port = 3000;
+config.port = 7001;
 
 config.mongoose = {
   uri: "mongodb://localhost:27017/passport-demo",
